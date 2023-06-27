@@ -1,37 +1,21 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Geetansh pardhi
-=======================================================================================================================================
-
-Learning Python .
------------------
-
-I am in my initial state of learning high-level languages And I am currently working on Python.
-
-* 🌍  I'm based in INDIA
-* ✉️  You can contact me at [darkwolfcreation7552@gmail.com](mailto:darkwolfcreation7552@gmail.com)
-* 🧠  I'm learning Python
-* 🤝  I'm open to collaborating on instresting python projects
-* ⚡  i'm also a youtuber
-
-### Skills
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-
-</p>
+# 💫 About Me:
+Welcome to My GitHub Profile! 👋<br>Hello there! I'm thrilled to have you visit my GitHub profile.😄<br><br>About Me 🙋‍♂️<br>My name is Geetansh, and I am a passionate 💻 software developer. I'm constantly expanding my skill set and staying up-to-date with the latest industry trends to ensure that I can deliver the best possible results. 🚀<br><br>My GitHub Projects 🚧<br>Within my GitHub repositories, you'll find a diverse collection of projects that highlight my skills and interests. These projects range from small experiments and prototypes to fully-fledged applications and tools. I believe in clean code, documentation, and maintainability, and I strive to apply these principles to all my work. 📚<br><br>I am always open to feedback, collaboration, and new ideas. If you find any of my projects interesting or if you have any suggestions, feel free to reach out. I value constructive input and appreciate opportunities to learn from others. 🤝<br><br>Happy coding! 💻
 
 
-### Socials
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/geetansh_pardhi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/geetansh-pardhi-875b15197) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19487934) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/geetanshpardhi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCtDkinOcDLy3cEuxq4iL5Ew) 
 
-<p align="left"> <a href="https://www.github.com/geetanshpardhi1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/geetansh_pardhi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/19487934/geetansh-pardhi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/geetanshpardhi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/HQCREATION" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+# 💻 Tech Stack:
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=geetanshpardhi1&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=geetanshpardhi1&theme=ayu-mirage&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=geetanshpardhi1&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Badges
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=geetanshpardhi)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-<b>My GitHub Stats</b>
+---
+[![](https://visitcount.itsvg.in/api?id=geetanshpardhi1&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<a href="http://www.github.com/geetanshpardhi1"><img src="https://github-readme-stats.vercel.app/api?username=geetanshpardhi1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true" alt="geetanshpardhi1's GitHub stats" /></a>
-
-<a href="https://github.com/geetanshpardhi1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geetanshpardhi1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
